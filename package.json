@@ -1,0 +1,21 @@
+{
+  "name": "node-js-websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "13.x"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Marcus Tan",
+  "license": "MIT",
+  "dependencies": {
+    "bufferutil": "4.0.1",
+    "express": "4.17.1",
+    "utf-8-validate": "5.0.2",
+    "ws": "7.2.0"
+  }
+}
